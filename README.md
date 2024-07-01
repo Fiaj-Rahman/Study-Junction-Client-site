@@ -1,12 +1,3 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
 
 
 
@@ -14,8 +5,9 @@ Currently, two official plugins are available:
 *My selected assignment category name is -- Assignment_category_0001
 *My website name is Study Junction
 
-*Study junction mainly used for Assignment create and submit
-*This website Live Link -- https://study-junction-de8cf.web.app/
+*Study junction 
+
+[This website Live Link](https://study-junction-de8cf.web.app/)
 
 
 
@@ -30,3 +22,7 @@ Now I write some feature of my Study Junction website -
 7.There backend code is create so strong format
 8.Enjoy and visit my website
 
+
+I used some of technology.There are vs-code,computer and I used a lot of language. There are html,css,tailwind,react,express.js,mongodb,firebase.
+
+If you clone this project then you must used the your firebase  and mongodb name and password. Cause here those name and password hide . And must install the some of npm library such as react dom, daisy ui, matarial ui and etc.
